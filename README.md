@@ -1,4 +1,5 @@
 # Tetris Game
+A classic Tetris Game implemented with a strong functional programming style using TypeScript excluding the tetrominoes which are object-oriented.
 
 ## Usage
 
